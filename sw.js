@@ -3,7 +3,7 @@
  * - Archivos propios (js, css, texturas, modelos, íconos): se guardan al usarse y salen de caché después.
  * - Todo lo que es de otros sitios (mapas, cotización del dólar, WhatsApp) pasa directo a la red.
  * El diseño del cliente vive en localStorage, así que sigue disponible sin conexión. */
-const VERSION = "casaconfig-v2.21";
+const VERSION = "casaconfig-v2.22";
 const SHELL = ["./", "manifest.webmanifest", "icon-192.png", "favicon.svg"];
 
 self.addEventListener("install", event => {
