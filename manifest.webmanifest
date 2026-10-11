@@ -1,0 +1,17 @@
+{
+  "name": "CasaConfig · Casas prefabricadas",
+  "short_name": "CasaConfig",
+  "description": "Armá tu casa por ambientes, mirala en 3D y pedí tu presupuesto.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F0EDE8",
+  "theme_color": "#F0EDE8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
